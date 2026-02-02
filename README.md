@@ -10,3 +10,4 @@ https://chrisacorns.computinghistory.org.uk/Computers/A3000.html
 
 Acorn A3000 Brochure
 https://chrisacorns.computinghistory.org.uk/docs/Acorn/Brochures/Acorn_APP227_A3000Jun89.pdf
+https://chrisacorns.computinghistory.org.uk/docs/Acorn/Brochures/Acorn_APP227_A3000Jun89.pdf
